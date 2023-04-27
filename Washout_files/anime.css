@@ -2,6 +2,7 @@ body {
   font-size:12px;
   font-family: "Lucida Sans", sans-serif;
   background: #848982;
+  cursor: url('/images_files/electric.gif'), auto;
   }
 
 @font-face {
@@ -119,8 +120,4 @@ body {
 {
  text-align:center;
  display:block;
-}
-
-body {
-    cursor: url('/images_files/electric.png'), auto;
 }
