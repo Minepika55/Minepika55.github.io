@@ -6,12 +6,12 @@ body {
 
 @font-face {
      font-family: "Londo";
-     src: url("https://github.com/Minepika55/Minepika55.github.io/blob/main/Washout_files/DECODER.TTF");
+     src: url("/Washout_files/DECODER.TTF");
 }
 
 @font-face {
      font-family: "Tahoma";
-     src: url("https://github.com/Minepika55/Minepika55.github.io/blob/main/Washout_files/WineTahomaBit.otf");
+     src: url("/Washout_files/WineTahomaBit.otf");
 }
 
 .main {
@@ -113,3 +113,11 @@ body {
     margin-top:15px;
     margin-bottom:15px;}
   }
+
+<style type="text/css">
+.centerImage
+{
+ text-align:center;
+ display:block;
+}
+</style>
