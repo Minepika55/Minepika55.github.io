@@ -148,3 +148,8 @@ a:hover {
 {
     cursor: pointer;
 }
+
+li:hover{
+
+cursor:default;
+}
