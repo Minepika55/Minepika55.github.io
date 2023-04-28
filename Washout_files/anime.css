@@ -139,3 +139,7 @@ cursor: pointer;
 /*change the number below to scale to the appropriate size*/ 
 .thing:hover { 
 transform: scale(2); 
+
+a:hover {
+ cursor:pointer;
+}
