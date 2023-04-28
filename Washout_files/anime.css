@@ -4,7 +4,6 @@ body {
   background: #848982;
   cursor: url("/Washout_files/cursor.gif"), default;
   cursor: url("/Washout_files/cursor.gif"), pointer;
-  }
 
 @font-face {
      font-family: "Londo";
@@ -139,3 +138,6 @@ cursor: pointer;
 /*change the number below to scale to the appropriate size*/ 
 .thing:hover { 
 transform: scale(2); 
+  
+  li { cursor:url("/Washout_files/cursor.gif") pointer; }
+  }
