@@ -4,17 +4,16 @@ body {
   background: #848982;
   cursor: url("/Washout_files/cursor.gif"), default;
   cursor: url("/Washout_files/cursor.gif"), pointer;
+  }
 
 @font-face {
      font-family: "Londo";
      src: url("/Washout_files/DECODER.TTF");
 }
-
 @font-face {
      font-family: "Tahoma";
      src: url("/Washout_files/WineTahomaBit.otf");
 }
-
 .main {
   margin: 0 auto;
   border:4px solid #1d1c32;
@@ -61,7 +60,6 @@ body {
   padding-bottom:6px;
   text-align:center;
   }  
-
 /*Classes for links section.*/
 .links {
   font-size:30px;
@@ -114,14 +112,12 @@ body {
     margin-top:15px;
     margin-bottom:15px;}
   }
-
 <style type="text/css">
 .centerImage
 {
  text-align:center;
  display:block;
 }
-
 .thing { 
 cursor: pointer; 
 -webkit-transition-property: all; 
@@ -134,10 +130,9 @@ cursor: pointer;
   /* Chromium + Safari */
   image-rendering: pixelated;
 } 
-
 /*change the number below to scale to the appropriate size*/ 
 .thing:hover { 
 transform: scale(2); 
-  
- li { cursor:url("/Washout_files/cursor.gif") pointer; }
- }
+
+  li { cursor:url("/Washout_files/cursor.gif") pointer; }
+  }
