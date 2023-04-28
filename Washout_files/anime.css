@@ -139,5 +139,5 @@ cursor: pointer;
 .thing:hover { 
 transform: scale(2); 
   
-  li { cursor:url("/Washout_files/cursor.gif") pointer; }
-  }
+ li { cursor:url("/Washout_files/cursor.gif") pointer; }
+ }
