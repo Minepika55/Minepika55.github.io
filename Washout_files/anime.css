@@ -153,3 +153,7 @@ li:hover{
 
 cursor:default;
 }
+  
+div:hover {
+  cursor: url("/Washout_files/cursor.gif"), auto;
+}
