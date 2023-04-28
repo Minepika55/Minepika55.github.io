@@ -143,3 +143,8 @@ transform: scale(2);
 a:hover {
  cursor:pointer;
 }
+
+.link_cursor
+{
+    cursor: pointer;
+}
