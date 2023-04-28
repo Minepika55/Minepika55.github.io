@@ -138,3 +138,14 @@ cursor: pointer;
 .thumbnail:hover { 
 transform: scale(2); 
 }
+
+.thing {
+	height: 100%;
+	width: 100%;
+	/* IE, only works on <img> tags */
+	-ms-interpolation-mode: nearest-neighbor;
+	/* firefox */
+	image-rendering: crisp-edges;
+	/* other browsers and spec */
+	image-rendering: pixelated;
+}
